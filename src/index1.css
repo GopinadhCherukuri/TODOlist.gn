@@ -1,0 +1,49 @@
+.bg-container{
+    background-color: aqua;
+    padding: 20px;
+}
+.user-input{
+    margin-right: 10px;
+}
+.todo-date{
+    margin-right: 10px;
+}
+.option{
+    margin-right: 10px;
+}
+.add{
+    padding: 10px 25px;
+    padding: 5px 10px;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+}
+.today-list{
+ width: 500px;
+ height: 300px;
+ border: 3px solid rgb(190, 34, 23);
+ margin: 10px 0;
+ text-decoration: underline;
+ background-color: yellow;
+ padding: 10px;
+}
+.future-list{
+    width: 500px;
+    height: 300px;
+    border: 3px solid rgb(190, 34, 23);
+    margin: 10px 0;
+    text-decoration: underline;
+    background-color: yellow;
+    padding: 10px;
+
+}
+.comp-list{
+    width: 500px;
+    height: 300px;
+    border: 3px solid rgb(190, 34, 23);
+    margin: 10px 0;
+    text-decoration: underline;
+    background-color: yellow;
+    padding: 10px;
+
+}
